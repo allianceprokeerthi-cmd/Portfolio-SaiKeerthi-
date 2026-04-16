@@ -34,4 +34,5 @@ In this project I applied various classification models such as Logistic Regress
 
 - [SQL Test By HackerRank](https://www.hackerrank.com/certificates/5cb6a4206119)
 - [Microsoft Power BI Desktop for Business Intelligence By Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ed6decd1-d0c8-4d64-baca-147aa001c800.pdf)
+
 ## Achievements
