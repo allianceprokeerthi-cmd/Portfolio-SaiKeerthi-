@@ -26,7 +26,7 @@ In this project I applied various classification models such as Logistic Regress
       
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Big Data Analytics
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL
 - **Tools**: MySQL, Tableau, Git, PySpark, Flask, MS Excel
 
