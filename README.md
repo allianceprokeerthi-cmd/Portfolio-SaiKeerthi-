@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/allianceprokeerthi-cmd/loan-prediction-ML)** 
 
-In this project I Built a loan approval prediction system using Logistic Regression, Random Forest, Gradient Boosting, and XGBoost. Achieved ~85% accuracy and strong F1 performance using cross-validation and feature importance analysis.
+In this project I Built a loan approval prediction system using Logistic Regression, Random Forest, Gradient Boosting, and XGBoost. Achieved ~85% accuracy and strong F1 performance using cross-validation.
 
 <br />
 
