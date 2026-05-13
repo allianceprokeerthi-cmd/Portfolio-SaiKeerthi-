@@ -6,13 +6,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/allianceprokeerthi-cmd/loan-prediction-ML)** 
+<img align="left" width="250" height="150" src="loan.jpg"> **[Loan Default Prediction](https://github.com/allianceprokeerthi-cmd/loan-prediction-ML)** 
 
 In this project I Built a loan approval prediction system using Logistic Regression, Random Forest, Gradient Boosting, and XGBoost. Achieved ~85% accuracy and strong F1 performance using cross-validation.
 #
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Movie Recommender System]https://github.com/allianceprokeerthi-cmd/movie-recommender)**
+<img align="left" width="250" height="100" src="movie.jpg"> **[Movie Recommender System](https://github.com/allianceprokeerthi-cmd/movie-recommender)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+In this project, I have built an English Movies Recommendation system using Python, Pandas, Scikit-learn with cosine similarity-based recommendations. This model recommends shows the top 10 recommendations for the given movie name.
 
 <br />
 
